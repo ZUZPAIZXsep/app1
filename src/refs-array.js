@@ -20,7 +20,7 @@ const onClickButton = (i) => {
     }
 
     const onMouseOverRow = (i) => {
-        tr.current[i].style.backgroundColor = 'yellow'
+        tr.current[i].style.backgroundColor = 'pink'
     }
 
     const onMouseOutRow = (i) => {
