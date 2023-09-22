@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function member(){
+export default function Member(){
     return(
         <div style={{textAlign:'center'}}>Member Page</div>
     )
