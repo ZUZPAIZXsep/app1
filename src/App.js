@@ -1,6 +1,6 @@
 import React from 'react'
-import FromText from './form-text'
+import FormCheck from './form-check'
 
 export default function App() {
-  return <FromText/>
+  return <FormCheck/>
   }
